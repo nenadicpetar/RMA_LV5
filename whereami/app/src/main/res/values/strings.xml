@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gdje sam?</string>
+    <string name="googleMapsKey">AIzaSyBCGz8DAs27R2pLYItk3IsCrOk5HWDOEwM</string>
+    <string name="camera_text">Kamera</string>
+    <string name="latitude">Geografska širina</string>
+    <string name="text_longitude">Geografska dužina:</string>
+    <string name="text_state">Država:</string>
+    <string name="text_place">Mjesto:</string>
+    <string name="text_address">Adresa:</string>
+</resources>

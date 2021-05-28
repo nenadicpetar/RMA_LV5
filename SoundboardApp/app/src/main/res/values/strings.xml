@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoundboardApp</string>
+
+    <string name="kobe">Picture of Kobe Bryant</string>
+    <string name="soljacic">Picture of Marin Soljacic</string>
+    <string name="mark">Picture of Mark Zuckerberg</string>
+    <string name="hawk">Picture of Stephen Hawking</string>
+    <string name="rimac">Picture of Mate Rimac</string>
+</resources>
